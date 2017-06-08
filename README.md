@@ -10,6 +10,9 @@ Assorted Data Science/Machine Learning resources. Mostly my bookmarks/notes/code
    * [Implicit biases from word embeddings](https://students.washington.edu/adelak/2017/01/?p=209&utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
  * [Tensorflow RMSD](https://medium.com/towards-data-science/tensorflow-rmsd-using-tensorflow-for-things-it-was-not-designed-to-do-ada4c9aa0ea2) Let's use deep learning to calculate RMSD from MD trajectories!
  * [A concise derivation of the Weiner-Kinchin theorem](http://pdebuyl.be/blog/2017/wiener-khinchin.html)
+ * An Introduction to Stock Market Data Analysis with Python [Part 1](https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/) [Part 2](https://ntguardian.wordpress.com/2016/09/26/introduction-stock-market-data-python-2/)
+ * [Introduction to Hidden Markov Models with Python Networkx and Sklearn](http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017)
+ * [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read)
 
 # Books I should buy
 
