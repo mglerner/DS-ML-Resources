@@ -17,3 +17,4 @@ Assorted Data Science/Machine Learning resources. Mostly my bookmarks/notes/code
 # Books I should buy
 
  * [Teaching Statistics: A Bag of Tricks (second edition)](http://andrewgelman.com/2017/04/20/teaching-statistics-bag-tricks-second-edition/)
+ * [Data Science at the Command Line](https://www.datascienceatthecommandline.com)
