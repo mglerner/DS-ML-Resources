@@ -13,6 +13,8 @@ Assorted Data Science/Machine Learning resources. Mostly my bookmarks/notes/code
  * An Introduction to Stock Market Data Analysis with Python [Part 1](https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/) [Part 2](https://ntguardian.wordpress.com/2016/09/26/introduction-stock-market-data-python-2/)
  * [Introduction to Hidden Markov Models with Python Networkx and Sklearn](http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017)
  * [Learning when to skim and when to read](https://metamind.io/research/learning-when-to-skim-and-when-to-read)
+ * [Frequentism and Bayesianism IV: How to be a Bayesian in Python](https://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/)
+ * [Samplers, samplers, everywhere...](http://mattpitkin.github.io/samplers-demo/pages/samplers-samplers-everywhere/#emcee)
 
 # Books I should buy
 
